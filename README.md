@@ -32,7 +32,7 @@ O código fonte do projeto está disponível no GitHub. Você pode acessá-lo at
 
 ## Diagrama de Blocos
 
-Está dentro do repositório, uma imagem de nome Diagrama Python
+Está dentro do repositório, uma imagem de nome Diagrama Python.png
 
 
 ## Exemplo de Uso
