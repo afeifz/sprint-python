@@ -32,33 +32,7 @@ O código fonte do projeto está disponível no GitHub. Você pode acessá-lo at
 
 ## Diagrama de Blocos
 
-[ Início do Jogo ]
-       |
-       V
-[ Login do Usuário ]
-       |
-       V
-[ Menu Principal ]
-       |
-       |-----------------------------|
-       |                             |
-       V                             V
-[ Comprar Carro ]             [ Ver Perfil ]
-       |                             |
-       V                             V
-[ Escolha do Carro ]       [ Mostrar Pontos e Compras ]
-       |                             |
-       V                             |
-[ Verificar Pontos ] <--------------|
-       |
-       V
-[ Efetuar Compra ]
-       |
-       V
-[ Atualizar Pontos e Informações do Usuário ]
-       |
-       V
-[ Retornar ao Menu Principal ]
+Está dentro do repositório, uma imagem de nome Diagrama Python
 
 
 ## Exemplo de Uso
